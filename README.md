@@ -1,2 +1,7 @@
-# LOL_KDA_Prediction_Model
-Developed as a project for the DSC80 course, this project houses a predictive model for Attack Damage Carry (ADC) Kill-Death-Assist (KDA) ratios
+# ADC KDA Linear Regression Model
+This page follows the development and evaluation of a predictive model using linear regression to estimate Kill-Death-Assist (KDA) ratios specifically tailored for Attack Damage Carry (ADC) champions based on postgame data.
+
+
+
+
+
